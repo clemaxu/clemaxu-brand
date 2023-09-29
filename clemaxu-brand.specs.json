@@ -1,0 +1,23 @@
+{
+	"colors": {
+		"main": "#2B2D42",
+		"accent": "#EF233C",
+		"text": "#8D99AE",
+		"background": "#EDF2F4"
+	},
+	"fonts": {
+		"heading": {
+			"family": "Khmer MN",
+			"color": "#2B2D42",
+			"backgroundColor": "#EDF2F4",
+			"size": null
+		},
+		"text": {
+			"use": "text",
+			"color": "#8D99AE",
+			"backgroundColor": "#EDF2F4",
+			"family": "Khmer Sangam MN",
+			"size": null
+		}
+	}
+}
