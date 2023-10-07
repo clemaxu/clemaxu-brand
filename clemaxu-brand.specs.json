@@ -7,16 +7,19 @@
 	},
 	"fonts": {
 		"heading": {
-			"family": "Khmer MN",
+			"use": "heading",
 			"color": "#2B2D42",
 			"backgroundColor": "#EDF2F4",
+			"family": "Khmer MN",
+			"familyUrl": null,
 			"size": null
 		},
 		"text": {
 			"use": "text",
 			"color": "#8D99AE",
 			"backgroundColor": "#EDF2F4",
-			"family": "Khmer Sangam MN",
+			"family": "Varela",
+			"familyUrl": "https://fonts.google.com/specimen/varela",
 			"size": null
 		}
 	}
